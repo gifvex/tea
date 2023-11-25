@@ -4,7 +4,7 @@ Catch moves change a battle to wild when the fight menu is opened.
 
 The opposing Pokemon can now be caught, registered in the Pokedex, then sent to the PC as a bad egg.
 
-The run option may work too. Both catching and running will count as a vicory.
+The run option may work too. Both catching and running will count as a victory.
 
 ### Marowak ghost
 
