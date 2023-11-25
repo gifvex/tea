@@ -21,7 +21,7 @@ Then three mail glitches:
 
 ### Usage
 
-Now the Lickitung egg can xor to any Kanto/Johto species with 0 egg cycles.
+Now the Lickitung egg can xor to any Kanto/Johto species and will have 0 egg cycles.
 
 For 1-127, change EVs to general and xor 0x5A to the species.
 
