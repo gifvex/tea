@@ -19,6 +19,6 @@ To see the clones, change to another screen and back.
 
 ### Decloning
 
-1. Multi-select 2+ slots with the yellow glove ending over an empty slot or bad egg
+1. Multi-select 2+ slots with the yellow glove ending over an empty slot
 2. Swap the selection with a cloner
-3. Place the cloner back down if needed
+3. Place the cloner back down
